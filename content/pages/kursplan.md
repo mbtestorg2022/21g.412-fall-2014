@@ -4,39 +4,595 @@ title: Kursplan
 uid: 4095d203-abf5-dad4-a7fc-85396459d84b
 ---
 
-| SES # | Themen (TOPICS) | Wichtige Fälligkeiten (KEY DATES) |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Woche 1: Einführung in den Kurs**{{< /td-colspan >}} |||
-| 1 |  {{< br >}}{{< br >}} Vorstellen des Syllabus {{< br >}}{{< br >}} Vorstellung der Studenten {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lesejournal ausfüllen {{< br >}}{{< br >}} Fragebogen beantworten {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Woche 2–3: Hoffmann, "Das Fräulein von Scuderi"**{{< /td-colspan >}} |||
-| 2 |  {{< br >}}{{< br >}} Literaturanalyse allgemein {{< br >}}{{< br >}} Über einen literarischen Text sprechen {{< br >}}{{< br >}} Besprechung des Textes {{< br >}}{{< br >}}  | Lesejournal |
-| 3 |  {{< br >}}{{< br >}} Einteilung der Vorträge {{< br >}}{{< br >}} Charakterisierung der handelnden Personen {{< br >}}{{< br >}} Textgenre besprechen {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Schreibaufgabe: 250 Wörter {{< br >}}{{< br >}} Fragen / Themen zur Diskussion {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Referat Hoffmann / Scuderi (Weise) {{< br >}}{{< br >}} Ansätze zur Textinterpretation {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lesejournal {{< br >}}{{< br >}} Reaktion {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Woche 3–4: Droste-Hülshoff, "Die Judenbuche"**{{< /td-colspan >}} |||
-| 5 | Textreferenzen | Lesejournal |
-| 6 |  {{< br >}}{{< br >}} Themen und Konflikte {{< br >}}{{< br >}} Literarische Stilmittel {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Beispiele für 5 literarische Stilmittel im Text finden {{< br >}}{{< br >}} Aufsatz beginnen {{< br >}}{{< br >}} Frage in einem Absatz beantworten {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Diskussion {{< br >}}{{< br >}} Referat 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Aufsatz schreiben {{< br >}}{{< br >}} Lesejournal {{< br >}}{{< br >}} Reaktion {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Woche 5–6: Hauptmann, "Bahnwärter Thiel"**{{< /td-colspan >}} |||
-| 8 |  {{< br >}}{{< br >}} Aufsatz 1 / 1. Version abgeben {{< br >}}{{< br >}} Vergleiche {{< br >}}{{< br >}} Symbole und Themen {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lesejournal {{< br >}}{{< br >}} Reaktion {{< br >}}{{< br >}} Vorbereitung auf Diskussion {{< br >}}{{< br >}} Vokabular {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Kausalität {{< br >}}{{< br >}} Wortfelder {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Version 2 des Aufsatzes {{< br >}}{{< br >}} Schreibaufgabe: 250 {{< br >}}{{< br >}} Wörter {{< br >}}{{< br >}} Vokabular {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Hausarbeit 1 / 2. Version abgeben {{< br >}}{{< br >}} Referat 2 {{< br >}}{{< br >}} Vokabelarbeit {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lesejournal {{< br >}}{{< br >}} Reaktion {{< br >}}{{< br >}} Vokabular {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Woche 7–9: Brecht / Weill, "Die Dreigroschenoper"**{{< /td-colspan >}} |||
-| 11 | Formelle Aussagen zu einem Drama  {{< br >}}Kulissen, Bühnenbild, Kostüme |  {{< br >}}{{< br >}} Lesejournal {{< br >}}{{< br >}} Reaktion {{< br >}}{{< br >}} Vokabular {{< br >}}{{< br >}}  |
-| 12 | Extra: Lesung und Diskussion mit dem schweizer Schriftsteller Arno Camenisch | &nbsp; |
-| 13 | Verfilmung |  {{< br >}}{{< br >}} Lesejournal {{< br >}}{{< br >}} Reaktion {{< br >}}{{< br >}}  |
-| 14 | Episches Theater | Dramaprojekt: Ideen sammeln |
-| 15 | Theater-Workshop | Dramaprojekt: Text erarbeiten |
-| 16 |  {{< br >}}{{< br >}} Hauptfiguren / Hauptaussagen {{< br >}}{{< br >}} Theater-Workshop {{< br >}}{{< br >}}  | Dramaprojekt: Aufführung proben |
-| 17 |  {{< br >}}{{< br >}} Dreigroschenoper-Aufführung  {{< br >}}Referat 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lesejournal {{< br >}}{{< br >}} Reaktion {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Woche 10–11: Dürrenmatt, "Die Physiker"**{{< /td-colspan >}} |||
-| 18 | Form und Inhalt |  {{< br >}}{{< br >}} Lesejournal {{< br >}}{{< br >}} Reaktion {{< br >}}{{< br >}} Aufsatz beginnen {{< br >}}{{< br >}}  |
-| 19 | Die Kritik: Diskurspartikel und thematisches Vokabular | Aufsatz schreiben |
-| 20 | Referat 4, Hausarbeit 2 / 1. Version abgeben |  {{< br >}}{{< br >}} Lesejournal {{< br >}}{{< br >}} Reaktion {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Woche 11–13: Arjouni, "Happy Birthday, Türke!"**{{< /td-colspan >}} |||
-| 21 |  {{< br >}}{{< br >}} Text und Kontext {{< br >}}{{< br >}} Figurenanalyse {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lesejournal {{< br >}}{{< br >}} Reaktion {{< br >}}{{< br >}} Aufsatz 2. Version schreiben {{< br >}}{{< br >}}  |
-| 22 | Textanalyse, Sprache und Stil | Schreibaufgabe: Vergleich und Kritik |
-| 23 |  {{< br >}}{{< br >}} Hausarbeit 2 / 2. Version abgeben {{< br >}}{{< br >}} Textinterpretation {{< br >}}{{< br >}} Anleitungen für Projekte {{< br >}}{{< br >}} Über einen Film sprechen {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Film ansehen {{< br >}}{{< br >}} Lesejournal {{< br >}}{{< br >}} Reaktion {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Woche 14–15: Süskind, "Das Parfum"**{{< /td-colspan >}} |||
-| 24 |  {{< br >}}{{< br >}} Beispiele Filmanalyse {{< br >}}{{< br >}} Referat 5 {{< br >}}{{< br >}}  | Projektarbeit |
-| 25 | Arbeit an Abschlussprojekten | Projektarbeit |
-| 26 |  {{< br >}}{{< br >}} Vorstellung der Abschlussprojekte {{< br >}}{{< br >}} Semesterabschluss {{< br >}}{{< br >}}  | Projektarbeit
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Themen (TOPICS)
+{{< thclose >}}
+{{< thopen >}}
+Wichtige Fälligkeiten (KEY DATES)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Woche 1: Einführung in den Kurs**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Vorstellen des Syllabus
+
+Vorstellung der Studenten
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lesejournal ausfüllen
+
+Fragebogen beantworten
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Woche 2–3: Hoffmann, "Das Fräulein von Scuderi"**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Literaturanalyse allgemein
+
+Über einen literarischen Text sprechen
+
+Besprechung des Textes
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lesejournal
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Einteilung der Vorträge
+
+Charakterisierung der handelnden Personen
+
+Textgenre besprechen
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Schreibaufgabe: 250 Wörter
+
+Fragen / Themen zur Diskussion
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Referat Hoffmann / Scuderi (Weise)
+
+Ansätze zur Textinterpretation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lesejournal
+
+Reaktion
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Woche 3–4: Droste-Hülshoff, "Die Judenbuche"**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Textreferenzen
+{{< tdclose >}}
+{{< tdopen >}}
+Lesejournal
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Themen und Konflikte
+
+Literarische Stilmittel
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Beispiele für 5 literarische Stilmittel im Text finden
+
+Aufsatz beginnen
+
+Frage in einem Absatz beantworten
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Diskussion
+
+Referat 1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Aufsatz schreiben
+
+Lesejournal
+
+Reaktion
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Woche 5–6: Hauptmann, "Bahnwärter Thiel"**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Aufsatz 1 / 1. Version abgeben
+
+Vergleiche
+
+Symbole und Themen
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lesejournal
+
+Reaktion
+
+Vorbereitung auf Diskussion
+
+Vokabular
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Kausalität
+
+Wortfelder
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Version 2 des Aufsatzes
+
+Schreibaufgabe: 250
+
+Wörter
+
+Vokabular
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hausarbeit 1 / 2. Version abgeben
+
+Referat 2
+
+Vokabelarbeit
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lesejournal
+
+Reaktion
+
+Vokabular
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Woche 7–9: Brecht / Weill, "Die Dreigroschenoper"**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Formelle Aussagen zu einem Drama  
+Kulissen, Bühnenbild, Kostüme
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lesejournal
+
+Reaktion
+
+Vokabular
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Extra: Lesung und Diskussion mit dem schweizer Schriftsteller Arno Camenisch
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Verfilmung
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lesejournal
+
+Reaktion
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Episches Theater
+{{< tdclose >}}
+{{< tdopen >}}
+Dramaprojekt: Ideen sammeln
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Theater-Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Dramaprojekt: Text erarbeiten
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hauptfiguren / Hauptaussagen
+
+Theater-Workshop
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Dramaprojekt: Aufführung proben
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dreigroschenoper-Aufführung  
+Referat 3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lesejournal
+
+Reaktion
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Woche 10–11: Dürrenmatt, "Die Physiker"**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Form und Inhalt
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lesejournal
+
+Reaktion
+
+Aufsatz beginnen
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Die Kritik: Diskurspartikel und thematisches Vokabular
+{{< tdclose >}}
+{{< tdopen >}}
+Aufsatz schreiben
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Referat 4, Hausarbeit 2 / 1. Version abgeben
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lesejournal
+
+Reaktion
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Woche 11–13: Arjouni, "Happy Birthday, Türke!"**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Text und Kontext
+
+Figurenanalyse
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lesejournal
+
+Reaktion
+
+Aufsatz 2. Version schreiben
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Textanalyse, Sprache und Stil
+{{< tdclose >}}
+{{< tdopen >}}
+Schreibaufgabe: Vergleich und Kritik
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hausarbeit 2 / 2. Version abgeben
+
+Textinterpretation
+
+Anleitungen für Projekte
+
+Über einen Film sprechen
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film ansehen
+
+Lesejournal
+
+Reaktion
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Woche 14–15: Süskind, "Das Parfum"**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Beispiele Filmanalyse
+
+Referat 5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Projektarbeit
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Arbeit an Abschlussprojekten
+{{< tdclose >}}
+{{< tdopen >}}
+Projektarbeit
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Vorstellung der Abschlussprojekte
+
+Semesterabschluss
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Projektarbeit
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
