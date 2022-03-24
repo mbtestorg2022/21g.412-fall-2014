@@ -550,7 +550,7 @@ Figurenanalyse
 
 [Diskussionsfragen zum Text (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo11-13_fra)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Theorie: Erzählhaltung (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo11-13_erz)
+[Theorie: Erzählhaltung (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo11-13_erz)
 
 
 {{< tdclose >}}
@@ -623,15 +623,15 @@ Referat 5
 
 [_Das Parfum: Die Geschichte eines Mörders_](http://www.cinema.de/film/das-parfum-die-geschichte-eines-moerders,1308090.html). Directed by Tom Tykwer. Color, 147 min. 2006.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)
+
 
 [Aufgabe: Textbeispiele zur Erzählhaltung (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo14-15_tex)
 
 [Theorie: Vermutungen mit Modalverben im subjektiven Gebrauch (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo14-15_oh)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Elemente des Films "Das Parfum" (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo14-15_par)
+[Elemente des Films "Das Parfum" (PDF)]({{< baseurl >}}/resources/mit21g_412f14_wo14-15_par)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Vortrag / Diskussion: Visualisierungen von Geruch und dem Riechen (PDF - 1.4MB)]({{< baseurl >}}/resources/mit21g_412f14_wo14-15_pre)
+[Vortrag / Diskussion: Visualisierungen von Geruch und dem Riechen (PDF - 1.4MB)]({{< baseurl >}}/resources/mit21g_412f14_wo14-15_pre)
 
 
 {{< tdclose >}}
