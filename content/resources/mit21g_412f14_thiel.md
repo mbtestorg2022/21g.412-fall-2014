@@ -5,6 +5,7 @@ description: "This is a file that contains information regarding advanced german
   \ f\xFCr donnerstag."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-412-advanced-german-literature-culture-madness-murder-mysteries-fall-2014/589f025e6393c4e667777682f064dbd7_MIT21G_412F14_thiel.pdf
 file_type: application/pdf
+parent_uid: a5220f7a-d962-f3d9-def2-591a2767d8b9
 resourcetype: Document
 title: "Hausaufgabe f\xFCr Donnerstag (2.10.) - 21G.412 Fall 2014"
 uid: 589f025e-6393-c4e6-6777-7682f064dbd7
